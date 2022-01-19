@@ -3,4 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.9
+  - numpy
+  - pandas
+  - jupyterlab
 prefix: C:\Users\gusbo\anaconda3\envs\comp30830
